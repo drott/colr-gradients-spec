@@ -231,7 +231,7 @@ Let the color at ω be the color at that position on the gradient color line (wi
 
 ![Example radial gradient rendering](images/example_radial.png)
 
-***Figure 3:** Example of a radial gradient rendering.*
+***Figure 3:** Example of a radial gradient rendering with extend modes pad, repeat and reflect (top to bottom).
 
 **TODO:** Add illustration of center points, radii, etc. similar to the radial
 one.
