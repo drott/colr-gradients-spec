@@ -1,3 +1,9 @@
+<style>
+    .del,.ins{ display: inline-block; margin-left: 0.5ex; }
+    .del     { background-color: #fcc; }
+         .ins{ background-color: #cfc; }
+</style>
+
 # Proposed changes to ISO/IEC 14496-22 (Amendment 2)
 
 Changes to the following sections of ISO/IEC 14496-22:2019 Open Font Format
@@ -3804,10 +3810,4 @@ _Add <del class="del">two</del> <ins class="ins">three</ins> new entries as foll
 [31]: <del class="del">https://www.w3.org/TR/SVG11/</del> <ins class="ins">https://www.w3.org/TR/2011/REC-SVG11-20110816/pservers.html#LinearGradientElementSpreadMethodAttribute</ins>
 [32]: <ins class="ins">https://www.w3.org/TR/SVG11/
 [33]:</ins> https://html.spec.whatwg.org/multipage/canvas.html#dom-context-2d-createradialgradient
-
-<style>
-    .del,.ins{ display: inline-block; margin-left: 0.5ex; }
-    .del     { background-color: #fcc; }
-         .ins{ background-color: #cfc; }
-</style>
 
